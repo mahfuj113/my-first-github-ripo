@@ -1,5 +1,8 @@
 div{
     background-color: chartreuse;
     padding: 10px;
-    margin: 20px solid green;
+    margin-bottom: 20px;
+
+    text-align: center;
+    text-shadow: 2px 2px goldenrod;
 }
